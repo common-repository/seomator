@@ -1,0 +1,24 @@
+.seomator-plugin-form .option-description {
+    margin-bottom: 15px;
+}
+
+.seomator-plugin-form .type-wrap {
+    max-width: 30%;
+    float: left;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.seomator-plugin-form .type-wrap .type-thumb {
+    display: block;
+}
+
+.seomator-plugin-form .type-wrap .type-thumb img {
+    max-width: 100%;
+    height: auto;
+}
+
+.seomator-plugin-form .type-wrap input[type=radio] {
+    margin-top: 0;
+}
